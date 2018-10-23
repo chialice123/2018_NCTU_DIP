@@ -1,0 +1,5 @@
+Change Resolution by Re-sampling
+-1: 原圖 640*480
+-2: 320*240 image resampled into 640*480
+-3: 160*120 image resampled into 640*480
+步驟: 更改影像尺寸到320*240以及160*120再resample(放大)到640*480

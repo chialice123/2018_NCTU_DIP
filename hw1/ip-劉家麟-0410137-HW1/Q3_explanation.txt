@@ -1,0 +1,2 @@
+Add random noise with MATLAB
+步驟: 用imnoise製造3次random salt & pepper(椒鹽雜訊)，雜訊密度(density)皆設為0.05

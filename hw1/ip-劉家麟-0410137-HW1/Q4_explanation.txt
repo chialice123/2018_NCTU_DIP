@@ -1,0 +1,6 @@
+Remove random noise with MATLAB
+步驟: 利用medfilt2中值濾波一次讀3X3來濾除雜訊，大致可濾除random salt & pepper noise，但效果沒有很好
+-1: 中值濾波1次
+-2: 中值濾波2次
+-3: 中值濾波3次
+可以看出濾越多次雜訊越少，但也相對越模糊。

@@ -1,0 +1,24 @@
+Q1: using MATLAB to do histogram equalization
+I used MATLAB function (histeq) to do histogram equalization
+
+Q1_before.tif: the original picture
+Q1_after.tif: the histogram-equalized picture
+Q1_cmp.png: using MATLAB figure to plot the comparison
+----------------------------------------------------------------------------------------------
+Q2: using Photoshop to do histogram equalization
+影像 ==> 調整 ==> 均勻分配
+(顯示色階分布圖)
+
+Q2_before.tif: the original picture
+Q2_after.tif: the histogram-equalized picture
+Q2_cmp.png: using MATLAB figure to plot the comparison
+----------------------------------------------------------------------------------------------
+Q3: histogram matching
+Using MATLAB function (imhistmatch) to make original histogram distribuition be like the 
+reference picture.
+
+Q3_before.tif: the original picture 
+Q3_after.tif: the histogram-matched picture
+Q3_ref.tif: the reference picture is processed by Photoshop automatic color adjustment, 
+			which means the histogram need to be like this picture's
+Q3_cmp.png: using MATLAB figure to plot the comparison
